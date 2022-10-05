@@ -1,2 +1,2 @@
-# Unit2-03-Python/<REPOSITORY>)
+# Unit2-03-Python
 
